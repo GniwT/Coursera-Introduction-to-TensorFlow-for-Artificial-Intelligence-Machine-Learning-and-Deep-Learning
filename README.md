@@ -1,10 +1,6 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
 ### by Coursera and  deeplearning.ai
-This is my notes and assignment for the Coursera: Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning. I finished the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) created by deeplearning.ai and created this repositories for the people who are interested in deep learning.
-
-## Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning
-
-This is the first course of the four courses of the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) created by deeplearning.ai. The specialization program covers Convolutional networks, RNNs, LSTM, Relu, Dropout, and more. I have finished the case studies from image regconition, housing prices prediction, natural language processing, and more. The assignments requires are all built in Python and in TensorFlow.
+This is my notes and assignment for the Coursera: Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning. I completed the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). The specialization program covers Convolutional networks, RNNs, LSTM, Relu, Dropout, and more. I built the models of image regconition, housing prices prediction, natural language processing, and more. The assignments are built in Python and in TensorFlow. I created this repositories for the people who are interested in deep learning.
 
 Dependencies:
 
@@ -16,7 +12,9 @@ Dependencies:
 * Numpy
 * MatplotLib
 
+
 **Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)**
+This is the first course of the four courses of the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 
 - Understand the major technology trends driving Deep Learning 
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks - Understand the key parameters in a neural network's architecture 
