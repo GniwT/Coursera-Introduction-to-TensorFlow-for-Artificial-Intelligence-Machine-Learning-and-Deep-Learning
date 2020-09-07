@@ -1,8 +1,8 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
 This is my notes and assignment for the Coursera: Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning. I finished the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) created by deeplearning.ai and created this repositories for the people who are interested in deep learning.
 
-# Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning
-## by Coursera and  deeplearning.ai
+## Introduction to TensorFlow for Artificial Intelligence Machine Learning and Deep Learning
+### by Coursera and  deeplearning.ai
 
 This is the first course of the four courses of the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) created by deeplearning.ai. The specialization program covers Convolutional networks, RNNs, LSTM, Relu, Dropout, and more. I have finished the case studies from image regconition, housing prices prediction, natural language processing, and more. The assignments requires are all built in Python and in TensorFlow.
 
